@@ -51,8 +51,8 @@ ul {
   letter-spacing: 0.02em;
   color: #757575;
 }
-.tel:hover,
-.tel:focus {
+.contact:hover,
+.contact:focus {
   color: var(--brand-color);
 }
 .mail-link {
@@ -60,7 +60,7 @@ ul {
   font-size: 14px;
   line-height: calc(16 / 14);
   letter-spacing: 0.02em;
-  color: var(--brand-color);
+  color: #757575;
 }
 /*HERO*/
 
